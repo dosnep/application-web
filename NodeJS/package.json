@@ -1,0 +1,28 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "",
+    "bootstrap": "",
+    "mysql": "",
+    "body-parser": "",
+    "cookie-parser": "",
+    "express-session": "",
+    "twig": "",
+    "jquery": "",
+    "jsdom": "~0.2.14",
+    "xmlhttprequest": ""
+  },
+  "devDependencies" : {
+
+  }
+
+}
+

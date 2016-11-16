@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ParisBD 2016: Paris Big Data Management Summit</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/business-casual.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div class="brand">ParisBD 2016</div>
+    <div class="address-bar"><strong>24 March 2016</strong><br>Télécom ParisTech, 46 rue
+      Barrault, 75013 Paris, France</div>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
+                <a class="navbar-brand" href="index.html">ParisBD 2016</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="/index">Home</a>
+                    </li>
+                    <li>
+                        <a href="/call">Call for Submissions</a>
+                    </li>
+                    <li>
+                        <a href="/program.html">Program</a>
+                    </li>
+                    <li>
+                        <a href="/location.html">Location</a>
+                    </li>
+                    <li>
+                        <a href="/registration.html">Registration</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <div class="container">
+
+      <div class="row">
+        <div class="box">
+          <div class="col-lg-12 text-center">
+            <div id="carousel-example-generic" class="carousel slide">
+              <!-- Indicators -->
+              <ol class="carousel-indicators hidden-xs">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item active">
+                  <div
+                     about='img/telecom-paristech.jpg'>
+                    <div
+                      rel="dc:source"
+                      resource='https://commons.wikimedia.org/wiki/File:Telecom_ParisTech.JPG'>
+                      <img class="img-responsive img-full"
+                        src="img/telecom-paristech.jpg" alt="Télécom ParisTech">
+                    </div>
+                    <a rel='license'
+                      href='http://creativecommons.org/licenses/by-sa/3.0/'>
+                      <img src='http://i.creativecommons.org/l/by-sa/3.0/80x15.png'
+                           alt='Creative Commons Attribution-Share Alike 3.0 Unported'
+                           title='Creative Commons Attribution-Share Alike 3.0 Unported'>
+                    </a>
+                    &nbsp;by&nbsp;
+                   <a
+                     prefix="cc: http://creativecommons.org/ns#"
+                     rel='cc:attributionURL'
+                     property='cc:attributionName'
+                     href='https://commons.wikimedia.org/wiki/User:LPLT'>LPLT</a>
+                  </div>
+                            </div>
+                            <div class="item">
+                  <div
+                     about='img/ecole-polytechnique.jpg'>
+                    <div
+                      rel="dc:source"
+                      resource='https://commons.wikimedia.org/wiki/File:Ecole_Polytechnique_France_seen_from_lake_DSC03389.JPG'>
+                      <img class="img-responsive img-full"
+                        src="img/ecole-polytechnique.jpg" alt="École polytechnique">
+                    </div>
+                    <a rel='license'
+                      href='http://creativecommons.org/licenses/by-sa/3.0/'>
+                      <img src='http://i.creativecommons.org/l/by-sa/3.0/80x15.png'
+                           alt='Creative Commons Attribution-Share Alike 3.0 Unported'
+                           title='Creative Commons Attribution-Share Alike 3.0 Unported'>
+                    </a>
+                    &nbsp;by&nbsp;
+                   <a
+                     prefix="cc: http://creativecommons.org/ns#"
+                     rel='cc:attributionURL'
+                     property='cc:attributionName'
+                     href='https://commons.wikimedia.org/wiki/User:David.Monniaux'>David Monniaux</a>
+                  </div>
+                            </div>
+                            <div class="item">
+                             <div
+                     about='img/inria-saclay.jpg'>
+                    <div
+                      rel="dc:source"
+                      resource='https://www.flickr.com/photos/inria/8163885143'>
+                      <img class="img-responsive img-full"
+                        src="img/inria-saclay.jpg" alt="Inria Saclay – Île-de-France">
+                    </div>
+                    <a rel='license'
+                      href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>
+                      <img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png'
+                           alt='Creative Commons Attribution-NonCommercial-Share Alike 2.0 Generic'
+                           title='Creative Commons Attribution-NonCommercial-Share Alike 2.0 Generic'>
+                    </a>
+                    &nbsp;by&nbsp;
+                   <a
+                     prefix="cc: http://creativecommons.org/ns#"
+                     rel='cc:attributionURL'
+                     property='cc:attributionName'
+                     href='https://www.flickr.com/photos/inria/'>Inria Actus</a>
+                  </div>
+                            </div>
+                        </div>
+
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                            <span class="icon-prev"></span>
+                        </a>
+                        <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                            <span class="icon-next"></span>
+                        </a>
+                    </div>
+                    <h2 class="brand-before">
+                        <small>Welcome to</small>
+                    </h2>
+                    <h1 class="brand-name">The Inaugural Paris Summit on Big Data Management</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Our Objectives</h2>
+                    <hr>
+                    <hr class="visible-xs">
+                    <p>There has been significant interest in big data
+                    techniques and applications in recent years. The goal
+                    of this all-day summit is to bring together
+                    researchers from the greater Paris area with an
+                    interest in big data management, together with
+                    invited
+                    industry experts, to discuss our collective research
+                    strengths and look for opportunities for future
+                    collaborations. This summit will showcase a number
+                    of research projects of high relevance and impact,
+                    and present a plenary student poster session to
+                    broadly cover projects on big data management in the
+                    local area. Attendees will also hear from French
+                    industry about their data management needs, and
+                    pursue further discussion at the social event.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Who Should Attend?</h2>
+                    <hr>
+                    <hr class="visible-xs">
+                    <p>We welcome participation of all researchers,
+                    industry experts, and practitioners with an interest
+                    in big data management as well as applications of big
+                    data in various domains. We expect participation of
+                    all graduate students who work on related research
+                    topics in this area.</p>
+                    <p>Registration for the summit is free.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Organizing Committee</h2>
+                    <hr>
+                    <ul>
+                      <li><a
+                        href="http://www.lix.polytechnique.fr/~yanlei.diao/">Yanlei
+                        Diao</a> (<em>Chair</em>, École
+                      polytechnique)</li>
+                      <li><a
+                        href="http://www.infres.enst.fr/~talel/">Talel
+                        Abdessalem</a> (Télécom ParisTech)</li>
+                      <li><a href="http://abiteboul.com/">Serge
+                          Abiteboul</a> (Inria Saclay &amp; ENS
+                        Cachan)</li>
+                      <li><a
+                             href="http://pages.saclay.inria.fr/ioana.manolescu/">Ioana
+                             Manolescu</a> (Inria Saclay)</li>
+                      <li><a href="http://pierre.senellart.com/">Pierre
+                          Senellart</a> (Télécom ParisTech)</li>
+                        <li><a
+                          href="http://www.lix.polytechnique.fr/~mvazirg/">Michalis
+                          Vazirgiannis</a> (École polytechnique)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <hr>
+                    <h2 class="intro-text text-center">Sponsors</h2>
+                    <hr>
+                  <a href="https://www.universite-paris-saclay.fr/">
+                    <img src="img/logo-paris-saclay.png" class="logo" alt="Université Paris-Saclay">
+                  </a>
+                  <a href="https://www.telecom-paristech.fr/">
+                    <img src="img/logo-telecom-paristech.png"
+                    class="logo" alt="Télécom ParisTech">
+                  </a>
+                  <a href="https://www.inria.fr/">
+                    <img src="img/logo-inria.png" class="logo" alt="Inria">
+                  </a>
+                  <a href="https://www.polytechnique.edu/">
+                    <img class="logo" src="img/logo-polytechnique.png" alt="École polytechnique">
+                  </a>
+                  <a href="https://www.cea.fr/">
+                    <img src="img/logo-cea.jpg" class="logo" alt="CEA">
+                  </a>
+                  <a href="http://www.capdigital.com/">
+                    <img src="img/cap-digital.png" class="logo" alt="Cap Digital">
+                  </a>
+                  <p
+                     about='img/bg.jpg'>
+                    <a
+                      rel="dc:source"
+                      href='https://www.flickr.com/photos/mothernaturephotos/18942860173/'>Background image
+                    </a>
+                    <a rel='license'
+                     href='http://creativecommons.org/licenses/by-nc-nd/2.0/'>
+                      <img src='http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png'
+                           alt='Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License'
+                           title='Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License'>
+                    </a>
+                    &nbsp;by&nbsp;
+                   <a
+                     prefix="cc: http://creativecommons.org/ns#"
+                     rel='cc:attributionURL'
+                     property='cc:attributionName'
+                     href='https://www.flickr.com/people/mothernaturephotos/'>Elliotphotos</a>
+                  </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+</body>
+
+</html>
+
